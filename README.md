@@ -61,9 +61,9 @@ Agora que já tô mais sólido no PHP raiz, tô partindo pra aprender Laravel co
 ### 📈 Stats do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RenatoPablo&show_icons=true&theme=tokyonight" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RenatoPablo&theme=tokyonight" />
 </p>
 
 ---
