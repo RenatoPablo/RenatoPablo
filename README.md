@@ -68,7 +68,7 @@ Agora que já tô mais sólido no PHP raiz, tô partindo pra aprender Laravel co
 
 ### 📫 Onde me encontrar
 
-- LinkedIn: [linkedin.com/in/renato-pablo-8a876023a](www.linkedin.com/in/renato-pablo-8a876023a)
+- LinkedIn: [linkedin.com/in/renato-pablo-8a876023a](https://www.linkedin.com/in/renato-pablo-8a876023a)
 - Email: [renatocuim@gmail.com](mailto:renatocuim@gmail.com)
 
 ---
