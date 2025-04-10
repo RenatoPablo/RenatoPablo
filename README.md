@@ -1,4 +1,4 @@
-<h1 align="center">Fala aí! 👋 Eu sou o [Seu Nome]</h1>
+<h1 align="center">Fala aí! 👋 Eu sou o Renato Pablo</h1>
 
 <p align="center">
   <i>Back-end dev em formação | PHP & futuro Laravelzeiro 💜</i><br>
@@ -70,9 +70,8 @@ Agora que já tô mais sólido no PHP raiz, tô partindo pra aprender Laravel co
 
 ### 📫 Onde me encontrar
 
-- LinkedIn: [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)
-- Email: [seu@email.com](mailto:seu@email.com)
-- Portfólio (em construção): [seusite.com](https://seusite.com)
+- LinkedIn: [linkedin.com/in/renato-pablo-8a876023a](www.linkedin.com/in/renato-pablo-8a876023a)
+- Email: [renatocuim@gmail.com](mailto:renatocuim@gmail.com)
 
 ---
 
